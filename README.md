@@ -2,6 +2,8 @@
 
 You Currently are on Kingvegeth GitHub page
 
+I'm a junior Fron-End Developer that is eager to work!
+
 My linkedin: https://www.linkedin.com/in/simone-nardo-036a651ab/
 
 <!--
