@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+You Currently are on Kingvegeth GitHub page
+
+My linkedin: https://www.linkedin.com/in/simone-nardo-036a651ab/
+
 <!--
 **Kingvegeth/kingvegeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
